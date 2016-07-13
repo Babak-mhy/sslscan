@@ -1,5 +1,5 @@
 FROM alpine:3.4
-MAINTAINER Scott Brown <scott.brown@unbounce.com>
+MAINTAINER Infrastructure @ Unbounce
 
 ENV GLIBC_VERSION 2.23-r3
 ENV GLIBC_RELEASE_URL https://github.com/andyshinn/alpine-pkg-glibc/releases/download/${GLIBC_VERSION}
